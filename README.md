@@ -11,6 +11,10 @@ https://www.fxhash.xyz/u/Margarine%20O'Leo NFT art collected as inspiration.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made Annie a present.<br><br>I can&#39;t wait for her to find it. <a href="https://t.co/ReEJWc6onE">pic.twitter.com/ReEJWc6onE</a></p>&mdash; MargarineOLeo (@MargarineOLeo) <a href="https://twitter.com/MargarineOLeo/status/1538299057831034881?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+FXHash intro simple template:
+
+https://editor.p5js.org/Margarine/sketches/GJRQU-43a
+
 # The Herbarium Sheet
 
 ## Annie and Her Computer
